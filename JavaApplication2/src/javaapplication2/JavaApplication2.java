@@ -278,7 +278,7 @@ comment */
     // Exercício 50
     // myObj.myMethod();
     /* Exercício 51
-    public class MyClass {
+    Public class MyClass {
   int x;
     }
      public MyClass() {
